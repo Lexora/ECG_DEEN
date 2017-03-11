@@ -10,7 +10,7 @@ subplot(2,1,2);
 plot(x,A(:,2));
 
 figure;
-
+% fuck this 
 subplot(2,1,1)
 plot(x,A(:,3));
 subplot(2,1,2);
